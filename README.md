@@ -1,3 +1,0 @@
-# Flow!
-
-test README file
